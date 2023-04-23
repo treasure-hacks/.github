@@ -5,7 +5,7 @@
   <td>
     Website: https://treasurehacks.org<br>
     Email: <a href="mailto:team@treasurehacks.org">team@treasurehacks.org</a><br>
-    Discord: https://api.treasurehacsks.org/links/discord
+    Discord: https://treasurehacks.dev/discord
   </td>
 </tr></table>
 
